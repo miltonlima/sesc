@@ -20,6 +20,8 @@
     <?php
     echo "Hello world!";
     ?>
+    teste
+    
 </body>
 
 </html>

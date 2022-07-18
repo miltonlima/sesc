@@ -20,10 +20,6 @@
     <?php
     echo "Hello world!";
     ?>
-    teste
-    teste
-    teste
-    aaaaa
 
 </body>
 

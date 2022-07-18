@@ -1,6 +1,6 @@
 ## System repository
 
-<p>more resources</p>
+<p>More resources</p>
 
 ## Project description
 
